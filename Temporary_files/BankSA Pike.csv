@@ -1,0 +1,464 @@
+Date,Description,Debit,Credit,Balance,Category,SubCategory
+1/11/2024,Atm Operator Fee Wdl          31Oct23:01 Np-Otr Alberton        Alberton     05Au,3.2,,46.29,Fees & Charges,Fees & Charges
+1/11/2024,Atm Withdrawal                31Oct23:01 Np-Otr Alberton        Alberton     05Au,150,,49.49,Withdrawals & Transfers,ATM & EFTPOS
+1/11/2024,Atm Operator Fee Inq          31Oct23:00 Np-Otr Alberton        Alberton     05Au,3.2,,199.49,Fees & Charges,Fees & Charges
+31/10/2024,Internet Deposit              31Oct05:56 From 0280074494440,,200,202.69,Deposits,Deposit
+24/10/2024,Visa Purchase                 20Oct Amazon Au            Sydney So,16.5,,2.69,Retail & Personal,Retail (shopping)
+24/10/2024,Visa Purchase                 21Oct Lord Melbourne Hotel North Ade,12,,19.19,Food & Beverage,Beverages
+23/10/2024,Visa Purchase                 20Oct Prime Video Channels Sydney,8.99,,31.19,Retail & Personal,Retail (shopping)
+22/10/2024,Visa Purchase                 18Oct Uber* Eats           Httpswww.,45.96,,40.18,Food & Beverage,Dining out
+22/10/2024,Visa Purchase                 18Oct Uber* Eats           Httpswww.,39.85,,86.14,Food & Beverage,Dining out
+22/10/2024,Visa Purchase                 18Oct Uber* Eats           Httpswww.,17.62,,125.99,Food & Beverage,Dining out
+21/10/2024,Visa Purchase                 18Oct Uber* Eats           Httpswww.,58.46,,143.61,Food & Beverage,Dining out
+21/10/2024,Eftpos Credit                 21Oct20:01 Uber* Trip\,,0.82,202.07,Deposits,Deposit
+21/10/2024,Eftpos Debit                  21Oct19:46 Uber* Trip\,14.12,,201.25,Transport & Travel,Taxi & Rental car
+21/10/2024,Eftpos Debit                  21Oct18:49 Smp*Lord Melbourne Ho\North Adelaid   Au,252.5,,215.37,Entertainment & Recreation,Gaming & Lotteries
+21/10/2024,Atm Operator Fee Wdl          21Oct18:18 Lord Melbourne Hotel     North Adelaidau,2.95,,467.87,Fees & Charges,Fees & Charges
+21/10/2024,Atm Withdrawal                21Oct18:18 Lord Melbourne Hotel     North Adelaidau,50,,470.82,Withdrawals & Transfers,ATM & EFTPOS
+21/10/2024,Eftpos Credit                 21Oct18:47 Uber* Trip\,,7.97,520.82,Deposits,Deposit
+21/10/2024,Eftpos Debit                  21Oct18:32 Uber* Trip\,24.42,,512.85,Transport & Travel,Taxi & Rental car
+19/10/2024,Eftpos Debit                  19Oct05:20 Uber   *Eats Help.Uber.Com\,4.46,,537.27,Food & Beverage,Dining out
+19/10/2024,Internet Deposit              19Oct10:51 From 0280074494440,,310,541.73,Deposits,Deposit
+19/10/2024,Eftpos Debit                  19Oct01:36 Uber Eats* Eats\,28.19,,231.73,Food & Beverage,Dining out
+19/10/2024,Eftpos Debit                  19Oct01:31 Uber Eats* Eats\,30.02,,259.92,Food & Beverage,Dining out
+18/10/2024,Eftpos Debit                  18Oct19:23 Uber Eats* Eats\,42.63,,289.94,Food & Beverage,Dining out
+17/10/2024,Internet Deposit              17Oct05:57 From 0280074494440,,320,332.57,Deposits,Deposit
+15/10/2024,Visa Purchase                 11Oct Smp*Reepham Hotel    Prospect,23.98,,12.57,Food & Beverage,Dining out
+15/10/2024,Visa Purchase                 11Oct Hubbl - Binge        North Ryd,18,,36.55,Entertainment & Recreation,TV
+15/10/2024,Visa Purchase                 12Oct Ad Free For Primevid Sydney,2.99,,54.55,Retail & Personal,Retail (shopping)
+15/10/2024,Eftpos Debit                  15Oct18:55 Uber* Trip\,8.41,,57.54,Transport & Travel,Taxi & Rental car
+15/10/2024,Eftpos Debit                  15Oct04:27 Uber* Trip\,5,,65.95,Transport & Travel,Taxi & Rental car
+14/10/2024,Visa Purchase                 10Oct Uber* Eats           Sydney,151.36,,70.95,Food & Beverage,Dining out
+14/10/2024,Visa Purchase                 10Oct Uber   *One          Sydney,9.99,,222.31,Transport & Travel,Taxi & Rental car
+14/10/2024,Eftpos Debit                  13Oct19:02 Uber Eats* Eats\,42.52,,232.3,Food & Beverage,Dining out
+14/10/2024,Eftpos Debit                  13Oct18:58 Uber Eats* Eats\,34.36,,274.82,Food & Beverage,Dining out
+12/10/2024,Osko Withdrawal               12Oct19:48 Ada,30,,309.18,Withdrawals & Transfers,Withdrawal
+11/10/2024,Visa Purchase                 09Oct Dd *Doordashdashpass Melbourne,9.99,,339.18,Food & Beverage,Dining out
+11/10/2024,Eftpos Debit                  11Oct19:52 Uber* Trip\,11.5,,349.17,Transport & Travel,Taxi & Rental car
+10/10/2024,Internet Deposit              10Oct06:00 From 0280074494440,,320,360.67,Deposits,Deposit
+10/10/2024,Eftpos Debit                  10Oct00:44 Uber* Trip\,11.36,,40.67,Transport & Travel,Taxi & Rental car
+10/10/2024,Eftpos Debit                  10Oct00:00 Bakery On O'Connell   North Adelaidsa Au,16.06,,52.03,Food & Beverage,Food & Groceries
+10/10/2024,Eftpos Debit                  10Oct00:00 Uber* Trip\,12.57,,68.09,Transport & Travel,Taxi & Rental car
+10/10/2024,Internet Deposit              09Oct22:36 From 0280074494440,,50,80.66,Deposits,Deposit
+9/10/2024,Atm Withdrawal                09Oct14:40 Cba\Kilburn Sa                        Au,320,,30.66,Withdrawals & Transfers,ATM & EFTPOS
+9/10/2024,Eftpos Debit                  09Oct14:58 Uber* Trip\,9.34,,350.66,Transport & Travel,Taxi & Rental car
+9/10/2024,Internet Deposit              09Oct12:52 From 0280074494440,,300,360,Deposits,Deposit
+8/10/2024,Internet Deposit              08Oct21:49 From 0280074494440,,59,60,Deposits,Deposit
+3/10/2024,Visa Purchase                 01Oct Prime Video Channels Sydney,3.99,,1,Retail & Personal,Retail (shopping)
+1/10/2024,Visa Purchase                 26Sep Ampol Fulham 44425F  Fulham Ga,45.25,,4.99,Transport & Travel,Petrol
+1/10/2024,Visa Purchase                 28Sep Zippay* P630515057   Zip.Co,40,,50.24,Retail & Personal,Retail (shopping)
+27/09/2024,Visa Purchase                 25Sep Prime Video Channels Sydney,5,,90.24,Retail & Personal,Retail (shopping)
+26/09/2024,Atm Operator Fee Wdl          26Sep21:26 Timesavers 107        Fulham          Au,3,,95.24,Fees & Charges,Fees & Charges
+26/09/2024,Atm Withdrawal                26Sep21:26 Timesavers 107        Fulham          Au,680,,98.24,Withdrawals & Transfers,ATM & EFTPOS
+26/09/2024,Eftpos Debit                  26Sep13:25 Ned Kellys Bakery     Alberton        Au,28.6,,778.24,Food & Beverage,Food & Groceries
+26/09/2024,Internet Deposit              26Sep06:01 From 0280074494440,,800,806.84,Deposits,Deposit
+25/09/2024,Eftpos Debit                  25Sep19:33 Aldi Stores - Port Adeport Adelaidesa Au,5.99,,6.84,Food & Beverage,Food & Groceries
+24/09/2024,Visa Purchase                 20Sep Prime Video Channels Sydney,8.99,,12.83,Retail & Personal,Retail (shopping)
+24/09/2024,Visa Purchase                 22Sep Cocacolaepp          Adelaide,4.8,,21.82,Food & Beverage,Food & Groceries
+23/09/2024,Eftpos Debit                  23Sep21:31 Uber Eats* Eats\,9.94,,26.62,Food & Beverage,Dining out
+23/09/2024,Eftpos Debit                  23Sep21:26 Uber Eats* Eats\,38.64,,36.56,Food & Beverage,Dining out
+23/09/2024,Eftpos Debit                  22Sep20:59 Otr West Terrace   \Adelaide          Au,74.26,,75.2,Transport & Travel,Petrol
+23/09/2024,Eftpos Debit                  22Sep21:21 Uber* Trip\,6.31,,149.46,Transport & Travel,Taxi & Rental car
+21/09/2024,Visa Purchase                 19Sep Progressive Vending  Hindmarsh,3.7,,155.77,Food & Beverage,Beverages
+19/09/2024,Atm Withdrawal                19Sep12:34 Atmx 470 Torrens Rd    Kilkenny     08Au,550,,159.47,Withdrawals & Transfers,ATM & EFTPOS
+19/09/2024,Eftpos Debit                  19Sep11:52 Otr Tranmere       \Tranmere          Au,60.05,,709.47,Transport & Travel,Petrol
+19/09/2024,Eftpos Debit                  19Sep07:24 Uber Eats* Eats\,36.65,,769.52,Food & Beverage,Dining out
+19/09/2024,Internet Deposit              19Sep05:57 From 0280074494440,,800,806.17,Deposits,Deposit
+14/09/2024,Visa Purchase                 13Sep Kilburn Rsl          Kilburn,16,,6.17,Food & Beverage,Beverages
+14/09/2024,Visa Purchase                 12Sep Ad Free For Primevid Sydney,2.99,,22.17,Retail & Personal,Retail (shopping)
+14/09/2024,Eftpos Debit                  14Sep20:06 Uber Eats* Eats\,27.85,,25.16,Food & Beverage,Dining out
+14/09/2024,Eftpos Debit                  14Sep20:03 Uber Eats* Eats\,50.43,,53.01,Food & Beverage,Dining out
+13/09/2024,Visa Purchase                 10Sep Alberton 7 Days Supe Alberton,8.5,,103.44,Food & Beverage,Food & Groceries
+13/09/2024,Eftpos Debit                  13Sep16:19 Rahimi Enterprises Ptyblair Athol  Sa Au,69.42,,111.94,Food & Beverage,Food & Groceries
+13/09/2024,Eftpos Debit                  13Sep13:18 Uber* Trip\,23.66,,181.36,Transport & Travel,Taxi & Rental car
+13/09/2024,Eftpos Credit                 12Sep23:11 Uber* Trip\,,1.24,205.02,Deposits,Deposit
+13/09/2024,Eftpos Debit                  12Sep22:48 Uber* Trip\,26.07,,203.78,Transport & Travel,Taxi & Rental car
+12/09/2024,Eftpos Debit                  12Sep21:45 Uber* Trip\,24.72,,229.85,Transport & Travel,Taxi & Rental car
+12/09/2024,Eftpos Debit                  12Sep21:13 Otr Alberton       \Alberton          Au,61.99,,254.57,Transport & Travel,Petrol
+12/09/2024,Atm Operator Fee Wdl          12Sep21:11 Np-Otr Alberton        Alberton     05Au,3.1,,316.56,Fees & Charges,Fees & Charges
+12/09/2024,Atm Withdrawal                12Sep21:11 Np-Otr Alberton        Alberton     05Au,500,,319.66,Withdrawals & Transfers,ATM & EFTPOS
+12/09/2024,Internet Deposit              12Sep06:00 From 0280074494440,,800,819.66,Deposits,Deposit
+10/09/2024,Visa Purchase                 05Sep Hubbl - Binge        North Ryd,18,,19.66,Entertainment & Recreation,TV
+9/09/2024,Eftpos Debit                  09Sep11:07 Uber Eats* Eats\,32.1,,37.66,Food & Beverage,Dining out
+9/09/2024,Eftpos Debit                  08Sep20:30 Otr Alberton       \Alberton          Au,62.24,,69.76,Transport & Travel,Petrol
+7/09/2024,Visa Purchase                 05Sep Optus Billing Servic Macquarie,200.12,,132,Bills & Payments,Telecommunications
+7/09/2024,Visa Purchase                 05Sep Woolworths/470 Torre Kilkenny,53.5,,332.12,Food & Beverage,Food & Groceries
+7/09/2024,Visa Purchase                 05Sep Dd *Doordashdashpass Melbourne,9.99,,385.62,Food & Beverage,Dining out
+7/09/2024,Eftpos Debit                  07Sep21:14 Uber* Trip\,21.45,,395.61,Transport & Travel,Taxi & Rental car
+5/09/2024,Visa Purchase                 03Sep Uber* Eats           Httpswww.,43.07,,417.06,Food & Beverage,Dining out
+5/09/2024,Visa Purchase                 03Sep Peter Briens Alberto Alberton,32.99,,460.13,Food & Beverage,Beverages
+5/09/2024,Atm Withdrawal                05Sep17:31 Banksa                Kilkenny     5  Au,300,,493.12,Withdrawals & Transfers,ATM & EFTPOS
+5/09/2024,Eftpos Debit                  05Sep17:28 Coco Armada Arndale   Kilkenny     Sa Au,8.48,,793.12,Food & Beverage,Dining out
+5/09/2024,Eftpos Debit                  05Sep15:34 Uber Eats* Eats\,28.58,,801.6,Food & Beverage,Dining out
+5/09/2024,Eftpos Debit                  05Sep15:30 Uber Eats* Eats\,34.3,,830.18,Food & Beverage,Dining out
+5/09/2024,Eftpos Debit                  05Sep11:14 Uber* Trip\,19.11,,864.48,Transport & Travel,Taxi & Rental car
+5/09/2024,Internet Deposit              05Sep05:57 From 0280074494440,,800,883.59,Deposits,Deposit
+4/09/2024,Visa Purchase                 30Aug Kilkenny Foodland    Kilkenny,55.08,,83.59,Food & Beverage,Food & Groceries
+3/09/2024,Visa Purchase                 01Sep Prime Video Channels Sydney,3.99,,138.67,Retail & Personal,Retail (shopping)
+3/09/2024,Visa Purchase                 30Aug Alberton 7 Days Supe Alberton,2.05,,142.66,Food & Beverage,Food & Groceries
+3/09/2024,Eftpos Debit                  03Sep16:17 Otr Alberton       \Alberton          Au,78.56,,144.71,Transport & Travel,Petrol
+3/09/2024,Internet Deposit              03Sep16:29 From 0280074494440,,150,223.27,Deposits,Deposit
+31/08/2024,Visa Purchase                 29Aug Zippay P616442673    Zip.Co,40,,73.27,Retail & Personal,Retail (shopping)
+31/08/2024,Eftpos Debit                  31Aug01:41 Uber Eats* Eats\,43.08,,113.27,Food & Beverage,Dining out
+30/08/2024,Visa Purchase                 27Aug Amazon Marketplace A Sydney So,99.95,,156.35,Retail & Personal,Retail (shopping)
+30/08/2024,Visa Purchase                 27Aug Amazon Marketplace A Sydney So,19.59,,256.3,Retail & Personal,Retail (shopping)
+30/08/2024,Visa Purchase                 27Aug Amazon Marketplace A Sydney So,12.77,,275.89,Retail & Personal,Retail (shopping)
+30/08/2024,Eftpos Debit                  30Aug17:32 Uber Eats* Eats\,12.1,,288.66,Food & Beverage,Dining out
+30/08/2024,Eftpos Debit                  30Aug16:50 The Reject Shop       Kilkenny        Au,69.35,,300.76,Retail & Personal,Retail (shopping)
+30/08/2024,Atm Withdrawal                30Aug16:12 Banksa                Kilkenny     5  Au,500,,370.11,Withdrawals & Transfers,ATM & EFTPOS
+30/08/2024,Eftpos Debit                  29Aug23:21 Uber Eats* Eats\,23.33,,870.11,Food & Beverage,Dining out
+30/08/2024,Eftpos Debit                  29Aug23:14 Uber Eats* Eats\,39.26,,893.44,Food & Beverage,Dining out
+29/08/2024,Visa Purchase                 26Aug Amazon Marketplace A Sydney So,37.99,,932.7,Retail & Personal,Retail (shopping)
+29/08/2024,Visa Purchase                 26Aug Amazon Marketplace A Sydney So,26.5,,970.69,Retail & Personal,Retail (shopping)
+29/08/2024,Visa Purchase                 26Aug Amazon Au            Sydney So,13.71,,997.19,Retail & Personal,Retail (shopping)
+29/08/2024,Visa Purchase                 26Aug Amazon Marketplace A Sydney So,9.82,,1010.9,Retail & Personal,Retail (shopping)
+29/08/2024,Internet Deposit              29Aug06:01 From 0280074494440,,800,1020.72,Deposits,Deposit
+28/08/2024,Visa Purchase                 26Aug Pin* 24Gp            Berri,69.52,,220.72,Retail & Personal,Medical & Personal care
+28/08/2024,Atm Operator Fee Inq          28Aug18:56 Atm Protective Servicealberton     Sa Au,3.1,,290.24,Fees & Charges,Fees & Charges
+28/08/2024,Eftpos Debit                  28Aug02:36 Otr Alberton       \Alberton          Au,71.48,,293.34,Transport & Travel,Petrol
+28/08/2024,Atm Operator Fee Inq          28Aug02:31 Np-Otr Alberton        Alberton     05Au,3.1,,364.82,Fees & Charges,Fees & Charges
+28/08/2024,Eftpos Debit                  28Aug02:28 Otr Alberton       \Alberton          Au,14.99,,367.92,Transport & Travel,Petrol
+27/08/2024,Visa Purchase                 23Aug Uber* Eats           Httpswww.,79.1,,382.91,Food & Beverage,Dining out
+27/08/2024,Visa Purchase                 24Aug Port Elliot Store    Port Elli,25.17,,462.01,Food & Beverage,Food & Groceries
+27/08/2024,Visa Purchase                 24Aug Port Elliot Store    Port Elli,17.95,,487.18,Food & Beverage,Food & Groceries
+27/08/2024,Visa Purchase                 25Aug Prime Video Channels Sydney,5,,505.13,Retail & Personal,Retail (shopping)
+26/08/2024,Visa Purchase                 22Aug Alberton 7 Days Supe Alberton,69.84,,510.13,Food & Beverage,Food & Groceries
+26/08/2024,Eftpos Debit                  26Aug10:47 Port Elliot Bakery    Port Elliot  Sa Au,19.41,,579.97,Food & Beverage,Food & Groceries
+26/08/2024,Eftpos Debit                  26Aug10:42 Port Elliot Pharmacy  Port Elliot     Au,33.98,,599.38,Retail & Personal,Medical & Personal care
+24/08/2024,Visa Purchase                 22Aug Pharmasave Alberton  Alberton,6.7,,633.36,Retail & Personal,Medical & Personal care
+23/08/2024,Eftpos Debit                  23Aug14:10 Uber Eats* Eats\,38.11,,640.06,Food & Beverage,Dining out
+22/08/2024,Eftpos Debit                  22Aug20:51 Spotlight          \Albert Park       Au,123.7,,678.17,Home & Property,Furnishings
+22/08/2024,Eftpos Debit                  22Aug13:01 Sq *The Pear          Alberton     Sa Au,5,,801.87,Food & Beverage,Food & Groceries
+22/08/2024,Internet Deposit              22Aug05:59 From 0280074494440,,800,806.87,Deposits,Deposit
+16/08/2024,Visa Purchase                 14Aug Peter Briens Alberto Alberton,68.99,,6.87,Food & Beverage,Beverages
+16/08/2024,Visa Purchase                 14Aug Peter Briens Alberto Alberton,24.99,,75.86,Food & Beverage,Beverages
+16/08/2024,Atm Withdrawal                16Aug16:42 Banksa                Kilkenny     5  Au,630,,100.85,Withdrawals & Transfers,ATM & EFTPOS
+14/08/2024,Visa Purchase                 12Aug Ad Free For Primevid Sydney,2.99,,730.85,Retail & Personal,Retail (shopping)
+14/08/2024,Eftpos Debit                  14Aug21:01 Otr Alberton       \Alberton          Au,3.69,,733.84,Transport & Travel,Petrol
+14/08/2024,Eftpos Debit                  14Aug18:01 Otr Alberton       \Alberton          Au,65.49,,737.53,Transport & Travel,Petrol
+14/08/2024,Eftpos Debit                  14Aug12:28 Uber* Trip\,21,,803.02,Transport & Travel,Taxi & Rental car
+14/08/2024,Internet Deposit              14Aug12:27 From 0280074494440,,800,824.02,Deposits,Deposit
+13/08/2024,Visa Purchase                 11Aug Coursra98Jrnuzgxei6K 650963988,58,,24.02,Retail & Personal,Education & Training
+12/08/2024,Eftpos Debit                  12Aug20:51 Uber* Trip\,9.77,,82.02,Transport & Travel,Taxi & Rental car
+12/08/2024,Eftpos Debit                  11Aug20:16 Otr Alberton       \Alberton          Au,110.31,,91.79,Transport & Travel,Petrol
+12/08/2024,Eftpos Debit                  11Aug00:24 Uber* Trip\,39,,202.1,Transport & Travel,Taxi & Rental car
+10/08/2024,Visa Purchase                 07Aug Amazon Marketplace A Sydney So,13.59,,241.1,Retail & Personal,Retail (shopping)
+9/08/2024,Visa Purchase                 05Aug Hubbl - Binge        North Ryd,18,,254.69,Entertainment & Recreation,TV
+9/08/2024,Eftpos Debit                  09Aug11:39 Uber Eats* Eats\,37.29,,272.69,Food & Beverage,Dining out
+8/08/2024,Visa Purchase                 06Aug Cs *Hubbl Gc         Sydney,50,,309.98,Bills & Payments,Gifts & Donations
+8/08/2024,Atm Withdrawal                08Aug13:46 Banksa                Kilkenny     5  Au,250,,359.98,Withdrawals & Transfers,ATM & EFTPOS
+8/08/2024,Atm Withdrawal                08Aug13:45 Banksa                Kilkenny     5  Au,180,,609.98,Withdrawals & Transfers,ATM & EFTPOS
+8/08/2024,Eftpos Debit                  08Aug13:25 Lincraft Regency   \Sefton Park       Au,63.1,,789.98,Retail & Personal,Retail (shopping)
+8/08/2024,Eftpos Debit                  08Aug12:12 Otr Tranmere       \Tranmere          Au,32.21,,853.08,Transport & Travel,Petrol
+8/08/2024,Internet Deposit              08Aug05:59 From 0280074494440,,800,885.29,Deposits,Deposit
+7/08/2024,Visa Purchase                 02Aug Amazon Marketplace A Sydney So,17.5,,85.29,Retail & Personal,Retail (shopping)
+7/08/2024,Visa Purchase                 02Aug Amazon Marketplace A Sydney So,17.05,,102.79,Retail & Personal,Retail (shopping)
+7/08/2024,Visa Purchase                 05Aug Dd *Doordashdashpass Melbourne,9.99,,119.84,Food & Beverage,Dining out
+7/08/2024,Visa Purchase                 03Aug Amazon Marketplace A Sydney So,8,,129.83,Retail & Personal,Retail (shopping)
+7/08/2024,Eftpos Debit                  07Aug12:44 Uber Eats* Eats\,37.38,,137.83,Food & Beverage,Dining out
+7/08/2024,Eftpos Debit                  07Aug01:46 Uber* Trip\,33.87,,175.21,Transport & Travel,Taxi & Rental car
+7/08/2024,Eftpos Credit                 07Aug01:09 Uber* Trip\,,0.46,209.08,Deposits,Deposit
+7/08/2024,Eftpos Debit                  07Aug00:58 Uber* Trip\,11.4,,208.62,Transport & Travel,Taxi & Rental car
+7/08/2024,Eftpos Debit                  07Aug00:35 Uber* Trip\,5,,220.02,Transport & Travel,Taxi & Rental car
+7/08/2024,Eftpos Debit                  07Aug00:20 Uber* Trip\,11.67,,225.02,Transport & Travel,Taxi & Rental car
+7/08/2024,Eftpos Credit                 07Aug02:14 Uber* Trip\,,0.53,236.69,Deposits,Deposit
+6/08/2024,Visa Purchase                 03Aug Target 5009          Adelaide,445.6,,236.16,Retail & Personal,Retail (shopping)
+6/08/2024,Visa Purchase                 02Aug Amazon Marketplace A Sydney So,193.33,,681.76,Retail & Personal,Retail (shopping)
+6/08/2024,Visa Purchase                 02Aug Amazon Marketplace A Sydney So,109.24,,875.09,Retail & Personal,Retail (shopping)
+6/08/2024,Visa Purchase                 02Aug Amazon Marketplace A Sydney So,37.35,,984.33,Retail & Personal,Retail (shopping)
+6/08/2024,Visa Purchase                 02Aug Amazon Au            Sydney So,28.95,,1021.68,Retail & Personal,Retail (shopping)
+6/08/2024,Visa Purchase                 02Aug Amazon Marketplace A Sydney So,28.74,,1050.63,Retail & Personal,Retail (shopping)
+6/08/2024,Visa Purchase                 02Aug Amazon Marketplace A Sydney So,26.28,,1079.37,Retail & Personal,Retail (shopping)
+6/08/2024,Visa Purchase                 02Aug Amazon Au            Sydney So,22.79,,1105.65,Retail & Personal,Retail (shopping)
+6/08/2024,Visa Purchase                 02Aug Amazon Marketplace A Sydney So,12.5,,1128.44,Retail & Personal,Retail (shopping)
+5/08/2024,Visa Purchase                 31Jul Amazon Marketplace A Sydney So,27.95,,1140.94,Retail & Personal,Retail (shopping)
+5/08/2024,Visa Purchase                 31Jul Amazon Marketplace A Sydney So,14.09,,1168.89,Retail & Personal,Retail (shopping)
+5/08/2024,Eftpos Debit                  04Aug15:56 Uber Eats* Eats\,54.34,,1182.98,Food & Beverage,Dining out
+5/08/2024,Eftpos Debit                  04Aug15:53 Uber Eats* Eats\,74.08,,1237.32,Food & Beverage,Dining out
+5/08/2024,Eftpos Debit                  03Aug23:21 Uber* Trip\,19.39,,1311.4,Transport & Travel,Taxi & Rental car
+3/08/2024,Visa Purchase                 01Aug Optus Billing Autopa Macquarie,197.12,,1330.79,Bills & Payments,Telecommunications
+3/08/2024,Visa Purchase                 01Aug Alh Venues/123 Oconn Nrth Adel,11.4,,1527.91,Transport & Travel,Hotels and Accommodation
+3/08/2024,Visa Purchase                 31Jul Amazon Au            Sydney So,10.38,,1539.31,Retail & Personal,Retail (shopping)
+3/08/2024,Eftpos Debit                  03Aug17:38 Uber* Trip\,19.44,,1549.69,Transport & Travel,Taxi & Rental car
+3/08/2024,Eftpos Credit                 03Aug11:49 Uber* Trip\,,0.19,1569.13,Deposits,Deposit
+3/08/2024,Eftpos Debit                  03Aug11:48 Uber* Trip\,5,,1568.94,Transport & Travel,Taxi & Rental car
+3/08/2024,Eftpos Debit                  03Aug11:23 Uber* Trip\,15.57,,1573.94,Transport & Travel,Taxi & Rental car
+3/08/2024,Eftpos Debit                  03Aug09:50 Uber* Trip\,18.32,,1589.51,Transport & Travel,Taxi & Rental car
+3/08/2024,Eftpos Debit                  02Aug23:49 Uber* Trip\,13.27,,1607.83,Transport & Travel,Taxi & Rental car
+3/08/2024,Eftpos Debit                  03Aug03:04 Uber Eats* Eats\,97.14,,1621.1,Food & Beverage,Dining out
+2/08/2024,Eftpos Debit                  02Aug12:10 Uber Eats* Eats\,39.49,,1718.24,Food & Beverage,Dining out
+2/08/2024,Eftpos Debit                  02Aug06:38 Uber* Trip\,3.6,,1757.73,Transport & Travel,Taxi & Rental car
+2/08/2024,Atm Withdrawal                01Aug23:53 Banksa                Enfield Sa   5  Au,1000,,1761.33,Withdrawals & Transfers,ATM & EFTPOS
+2/08/2024,Eftpos Credit                 02Aug00:27 Uber* Trip\,,0.02,2761.33,Deposits,Deposit
+2/08/2024,Eftpos Debit                  02Aug00:13 Uber* Trip\,15.58,,2761.31,Transport & Travel,Taxi & Rental car
+1/08/2024,Eftpos Debit                  01Aug19:38 Uber* Trip\,12.52,,2776.89,Transport & Travel,Taxi & Rental car
+1/08/2024,Eftpos Debit                  01Aug19:00 Uber Eats* Eats\,32.88,,2789.41,Food & Beverage,Dining out
+1/08/2024,Internet Deposit              01Aug09:37 From 9000204517840,,2000,2822.29,Deposits,Deposit
+1/08/2024,Internet Deposit              01Aug06:16 From 0280074494440,,800,822.29,Deposits,Deposit
+31/07/2024,Visa Purchase                 28Jul Zippay* P602433576   Zip.Co,40,,22.29,Retail & Personal,Retail (shopping)
+31/07/2024,Eftpos Debit                  31Jul13:15 Uber Eats* Eats\,30.13,,62.29,Food & Beverage,Dining out
+30/07/2024,Visa Purchase                 26Jul Uber* Eats           Httpswww.,151.11,,92.42,Food & Beverage,Dining out
+30/07/2024,Eftpos Debit                  29Jul23:17 Uber Eats* Eats\,25.97,,243.53,Food & Beverage,Dining out
+30/07/2024,Eftpos Debit                  29Jul23:14 Uber Eats* Eats\,55.08,,269.5,Food & Beverage,Dining out
+29/07/2024,Visa Purchase                 26Jul Dan Murphys Online   Bella Vis,62.29,,324.58,Food & Beverage,Beverages
+29/07/2024,Eftpos Debit                  29Jul16:44 Uber* Trip\,17.16,,386.87,Transport & Travel,Taxi & Rental car
+29/07/2024,Eftpos Debit                  28Jul19:32 Uber Eats* Eats\,78.89,,404.03,Food & Beverage,Dining out
+29/07/2024,Eftpos Debit                  28Jul19:13 Uber Eats* Eats\,54.28,,482.92,Food & Beverage,Dining out
+29/07/2024,Eftpos Debit                  28Jul15:11 Otr Newton         \Newton            Au,75.27,,537.2,Transport & Travel,Petrol
+27/07/2024,Eftpos Debit                  27Jul13:54 Lobethal Bierhaus     Lobethal     Sa Au,102,,612.47,Food & Beverage,Beverages
+26/07/2024,Eftpos Debit                  25Jul23:52 Uber Eats* Eats\,60.16,,714.47,Food & Beverage,Dining out
+26/07/2024,Eftpos Debit                  25Jul23:38 Uber Eats* Eats\,31.54,,774.63,Food & Beverage,Dining out
+25/07/2024,Internet Deposit              25Jul06:01 From 0280074494440,,800,806.17,Deposits,Deposit
+24/07/2024,Visa Purchase                 21Jul Amazon Marketplace A Sydney So,9.99,,6.17,Retail & Personal,Retail (shopping)
+24/07/2024,Visa Purchase                 21Jul Amazon Au            Sydney So,7.98,,16.16,Retail & Personal,Retail (shopping)
+24/07/2024,Visa Purchase                 21Jul Amazon Au            Sydney So,3.5,,24.14,Retail & Personal,Retail (shopping)
+24/07/2024,Visa Purchase                 21Jul Amazon Au            Sydney So,3.5,,27.64,Retail & Personal,Retail (shopping)
+23/07/2024,Visa Purchase                 20Jul Prime Video Channels Sydney,8.99,,31.14,Retail & Personal,Retail (shopping)
+22/07/2024,Visa Purchase                 19Jul Uber* Eats           Httpswww.,74.72,,40.13,Food & Beverage,Dining out
+22/07/2024,Eftpos Debit                  22Jul15:10 Uber* Trip\,18.12,,114.85,Transport & Travel,Taxi & Rental car
+22/07/2024,Eftpos Debit                  22Jul10:05 Uber Eats* Eats\,5.37,,132.97,Food & Beverage,Dining out
+22/07/2024,Eftpos Debit                  22Jul09:33 Uber Eats* Eats\,26.92,,138.34,Food & Beverage,Dining out
+22/07/2024,Atm Withdrawal                22Jul07:48 Banksa                Enfield Sa   5  Au,450,,165.26,Withdrawals & Transfers,ATM & EFTPOS
+22/07/2024,Eftpos Debit                  22Jul08:08 Uber* Trip\,17.25,,615.26,Transport & Travel,Taxi & Rental car
+22/07/2024,Eftpos Credit                 21Jul13:38 Uber* Trip\,,0.01,632.51,Deposits,Deposit
+22/07/2024,Eftpos Debit                  21Jul13:25 Uber* Trip\,13.54,,632.5,Transport & Travel,Taxi & Rental car
+20/07/2024,Eftpos Debit                  20Jul20:26 Uber Eats* Eats\,66.79,,646.04,Food & Beverage,Dining out
+19/07/2024,Eftpos Debit                  19Jul21:34 Uber Eats* Eats\,40.94,,712.83,Food & Beverage,Dining out
+19/07/2024,Eftpos Debit                  19Jul01:24 Uber Eats* Eats\,65.5,,753.77,Food & Beverage,Dining out
+18/07/2024,Visa Purchase                 16Jul Sefton Park Foodland Sefton Pa,83.6,,819.27,Food & Beverage,Food & Groceries
+18/07/2024,Internet Deposit              18Jul06:02 From 0280074494440,,800,902.87,Deposits,Deposit
+18/07/2024,Eftpos Debit                  17Jul23:11 Uber* Trip\,11.8,,102.87,Transport & Travel,Taxi & Rental car
+17/07/2024,Visa Purchase                 14Jul Uber* Eats           Httpswww.,84.97,,114.67,Food & Beverage,Dining out
+17/07/2024,Visa Purchase                 14Jul Carpe Diem           Port Adel,37,,199.64,Retail & Personal,Retail (shopping)
+17/07/2024,Visa Purchase                 14Jul Amazon Marketplace A Sydney So,35.98,,236.64,Retail & Personal,Retail (shopping)
+17/07/2024,Eftpos Debit                  17Jul16:35 Uber* Trip\,13.02,,272.62,Transport & Travel,Taxi & Rental car
+16/07/2024,Eftpos Credit                 16Jul19:24 Uber* Trip\,,0.01,285.64,Deposits,Deposit
+16/07/2024,Eftpos Debit                  16Jul19:17 Uber* Trip\,8.88,,285.63,Transport & Travel,Taxi & Rental car
+16/07/2024,Internet Deposit              16Jul19:10 From 0280074494440,,100,294.51,Deposits,Deposit
+16/07/2024,Eftpos Debit                  16Jul17:34 Salvos Stores      \Sefton Park       Au,51.85,,194.51,Bills & Payments,Gifts & Donations
+16/07/2024,Eftpos Debit                  16Jul17:34 Salvos Stores      \Sefton Park       Au,51,,246.36,Bills & Payments,Gifts & Donations
+16/07/2024,Eftpos Debit                  16Jul17:16 Uber* Trip\,8.65,,297.36,Transport & Travel,Taxi & Rental car
+15/07/2024,Visa Purchase                 11Jul Uber* Eats           Httpswww.,47.74,,306.01,Food & Beverage,Dining out
+15/07/2024,Eftpos Credit                 15Jul18:38 Uber* Trip\,,0.01,353.75,Deposits,Deposit
+15/07/2024,Eftpos Debit                  15Jul18:23 Uber* Trip\,13.75,,353.74,Transport & Travel,Taxi & Rental car
+15/07/2024,Eftpos Debit                  14Jul14:57 Uber* Trip\,12.52,,367.49,Transport & Travel,Taxi & Rental car
+15/07/2024,Eftpos Debit                  14Jul10:30 Uber* Trip\,12.71,,380.01,Transport & Travel,Taxi & Rental car
+13/07/2024,Visa Purchase                 11Jul Optus Billing Servic Macquarie,197.12,,392.72,Bills & Payments,Telecommunications
+13/07/2024,Visa Purchase                 10Jul Alberton 7 Days Supe Alberton,94.88,,589.84,Food & Beverage,Food & Groceries
+13/07/2024,Visa Purchase                 09Jul Ampol North Adelaide North Ade,67.49,,684.72,Transport & Travel,Petrol
+13/07/2024,Visa Purchase                 11Jul Coursra98Jrnuzgxei6K 650963988,58,,752.21,Retail & Personal,Education & Training
+13/07/2024,Visa Purchase                 10Jul Uber* Eats           Httpswww.,36.15,,810.21,Food & Beverage,Dining out
+13/07/2024,Eftpos Debit                  13Jul21:37 Uber Eats* Eats\,57.19,,846.36,Food & Beverage,Dining out
+13/07/2024,Eftpos Debit                  13Jul15:48 Uber* Trip\,21.24,,903.55,Transport & Travel,Taxi & Rental car
+13/07/2024,Eftpos Debit                  13Jul05:32 Uber Eats* Eats\,25.5,,924.79,Food & Beverage,Dining out
+12/07/2024,Eftpos Debit                  12Jul03:18 Uber Eats* Eats\,59.2,,950.29,Food & Beverage,Dining out
+11/07/2024,Visa Purchase                 08Jul Dd *Doordash Koreana Melbourne,70.95,,1009.49,Food & Beverage,Dining out
+11/07/2024,Visa Purchase                 08Jul Dd *Doordash Bettysb Melbourne,47.09,,1080.44,Food & Beverage,Dining out
+11/07/2024,Visa Purchase                 08Jul Amazon Au            Sydney So,44.9,,1127.53,Retail & Personal,Retail (shopping)
+11/07/2024,Visa Purchase                 08Jul Amazon Marketplace A Sydney So,29.99,,1172.43,Retail & Personal,Retail (shopping)
+11/07/2024,Visa Purchase                 08Jul Amazon Marketplace A Sydney So,19.99,,1202.42,Retail & Personal,Retail (shopping)
+11/07/2024,Visa Purchase                 08Jul Dd *Doordashdashpass Melbourne,9.99,,1222.41,Food & Beverage,Dining out
+11/07/2024,Eftpos Debit                  11Jul11:09 Otr Tranmere       \Tranmere          Au,24.41,,1232.4,Transport & Travel,Petrol
+11/07/2024,Eftpos Debit                  11Jul08:33 Uber Eats* Eats\,25.03,,1256.81,Food & Beverage,Dining out
+11/07/2024,Internet Deposit              11Jul05:59 From 0280074494440,,800,1281.84,Deposits,Deposit
+10/07/2024,Visa Purchase                 08Jul Dan Murphys Online   Bella Vis,84.2,,481.84,Food & Beverage,Beverages
+10/07/2024,Visa Purchase                 08Jul Samsung Electronics  Schwalbac,27.89,,566.04,Home & Property,Technology & Appliances
+10/07/2024,Eftpos Debit                  10Jul18:19 Uber Eats* Eats\,23.58,,593.93,Food & Beverage,Dining out
+10/07/2024,Eftpos Debit                  10Jul18:16 Uber Eats* Eats\,40.28,,617.51,Food & Beverage,Dining out
+10/07/2024,Eftpos Debit                  10Jul09:19 Uber Eats* Eats\,61.04,,657.79,Food & Beverage,Dining out
+10/07/2024,Eftpos Debit                  10Jul00:04 Uber* Trip\,11.91,,718.83,Transport & Travel,Taxi & Rental car
+10/07/2024,Eftpos Debit                  09Jul22:35 Uber* Trip\,12.17,,730.74,Transport & Travel,Taxi & Rental car
+9/07/2024,Eftpos Debit                  09Jul18:40 Uber Eats* Eats\,68.3,,742.91,Food & Beverage,Dining out
+8/07/2024,Visa Purchase                 03Jul Uber   *Eats         Sydney,43.67,,811.21,Food & Beverage,Dining out
+8/07/2024,Internet Deposit              08Jul11:04 From 0280074494440,,700,854.88,Deposits,Deposit
+8/07/2024,Eftpos Debit                  08Jul10:59 Uber Eats* Eats\,25.05,,154.88,Food & Beverage,Dining out
+8/07/2024,Internet Deposit              08Jul10:41 From 0280074494440,,100,179.93,Deposits,Deposit
+8/07/2024,Eftpos Debit                  08Jul02:49 Uber* Trip\,11.92,,79.93,Transport & Travel,Taxi & Rental car
+8/07/2024,Eftpos Debit                  07Jul21:49 Uber* Trip\,12.81,,91.85,Transport & Travel,Taxi & Rental car
+8/07/2024,Internet Deposit              07Jul21:47 From 0280074494440,,50,104.66,Deposits,Deposit
+6/07/2024,Visa Purchase                 03Jul Microsoft*Store      Msbill.In,109,,54.66,Entertainment & Recreation,TV
+4/07/2024,Eftpos Debit                  04Jul21:57 Uber* Trip\,8.87,,163.66,Transport & Travel,Taxi & Rental car
+4/07/2024,Atm Withdrawal -Wbc           04Jul20:27 Westpac               Prospect     5  Au,600,,172.53,Withdrawals & Transfers,ATM & EFTPOS
+4/07/2024,Eftpos Debit                  04Jul20:47 Uber* Trip\,9.33,,772.53,Transport & Travel,Taxi & Rental car
+4/07/2024,Eftpos Debit                  04Jul07:34 Uber Eats* Eats\,48.13,,781.86,Food & Beverage,Dining out
+3/07/2024,Visa Purchase                 29Jun Pricelinepharmacy    038855327,66.76,,829.99,Retail & Personal,Medical & Personal care
+3/07/2024,Visa Purchase                 01Jul Prime Video Channels Sydney,5,,896.75,Retail & Personal,Retail (shopping)
+3/07/2024,Internet Deposit              03Jul16:43 From 0280074494440,,800,901.75,Deposits,Deposit
+2/07/2024,Visa Purchase                 28Jun Amazon Marketplace A Sydney So,201.94,,101.75,Retail & Personal,Retail (shopping)
+2/07/2024,Visa Purchase                 28Jun Mecca Brands Pty Ltd Richmond,151,,303.69,Retail & Personal,Retail (shopping)
+2/07/2024,Visa Purchase                 28Jun Amazon Marketplace A Sydney So,28.9,,454.69,Retail & Personal,Retail (shopping)
+1/07/2024,Visa Purchase                 28Jun Uber* Eats           Httpswww.,109.82,,483.59,Food & Beverage,Dining out
+29/06/2024,Eftpos Debit                  29Jun17:33 Uber* Trip\,19.8,,593.41,Transport & Travel,Taxi & Rental car
+29/06/2024,Eftpos Debit                  29Jun15:36 Uber* Trip\,13.06,,613.21,Transport & Travel,Taxi & Rental car
+29/06/2024,Atm Withdrawal                29Jun14:48 Nab Atm               Centro Arndal   Au,700,,626.27,Withdrawals & Transfers,ATM & EFTPOS
+29/06/2024,Eftpos Debit                  29Jun15:14 Sq *Essential Baeuty  Kilkenny     Sa Au,34.95,,1326.27,Retail & Personal,Retail (shopping)
+29/06/2024,Internet Deposit              29Jun14:15 From 0280074494440,,800,1361.22,Deposits,Deposit
+29/06/2024,Atm Withdrawal                29Jun13:26 Banksa                Kilkenny     5  Au,180,,561.22,Withdrawals & Transfers,ATM & EFTPOS
+29/06/2024,Eftpos Debit                  29Jun13:23 Uber* Trip\,13.49,,741.22,Transport & Travel,Taxi & Rental car
+29/06/2024,Eftpos Debit                  29Jun01:59 Uber Eats* Eats\,55.76,,754.71,Food & Beverage,Dining out
+27/06/2024,Internet Deposit              27Jun06:01 From 0280074494440,,802.35,810.47,Deposits,Deposit
+22/06/2024,Visa Purchase                 18Jun Amazon Marketplace A Sydney So,65.97,,8.12,Retail & Personal,Retail (shopping)
+22/06/2024,Visa Purchase                 18Jun Amazon Marketplace A Sydney So,49.89,,74.09,Retail & Personal,Retail (shopping)
+22/06/2024,Visa Purchase                 18Jun Amazon Au            Sydney So,23.5,,123.98,Retail & Personal,Retail (shopping)
+21/06/2024,Visa Purchase                 18Jun Amazon Marketplace A Sydney So,36.4,,147.48,Retail & Personal,Retail (shopping)
+21/06/2024,Visa Purchase                 18Jun Amazon Marketplace A Sydney So,32.76,,183.88,Retail & Personal,Retail (shopping)
+20/06/2024,Internet Withdrawal           20Jun10:46 To 0280074494440,2000,,216.64,Withdrawals & Transfers,Funds transfer
+20/06/2024,Internet Deposit              20Jun06:03 From 0280074494440,,802.35,2216.64,Deposits,Deposit
+18/06/2024,Visa Purchase                 14Jun Ampol North Adelaide North Ade,91.19,,1414.29,Transport & Travel,Petrol
+18/06/2024,Eftpos Debit                  18Jun18:52 Uber Eats* Eats\,54.85,,1505.48,Food & Beverage,Dining out
+18/06/2024,Eftpos Debit                  18Jun18:49 Uber Eats* Eats\,26.86,,1560.33,Food & Beverage,Dining out
+18/06/2024,Eftpos Debit                  18Jun12:48 Uber* Trip\,16.32,,1587.19,Transport & Travel,Taxi & Rental car
+18/06/2024,Eftpos Debit                  18Jun01:41 Uber* Trip\,9.33,,1603.51,Transport & Travel,Taxi & Rental car
+18/06/2024,Eftpos Debit                  17Jun22:04 Otr Nth Terrace    \Adelaide          Au,67.47,,1612.84,Transport & Travel,Petrol
+17/06/2024,Visa Purchase                 12Jun Smp*Reepham Hotel    Prospect,137.93,,1680.31,Food & Beverage,Dining out
+17/06/2024,Eftpos Debit                  17Jun21:52 Uber* Trip\,14.34,,1818.24,Transport & Travel,Taxi & Rental car
+17/06/2024,Eftpos Debit                  17Jun17:51 Uber Eats* Eats\,85.24,,1832.58,Food & Beverage,Dining out
+17/06/2024,Eftpos Debit                  17Jun01:49 Uber Eats* Eats\,3.35,,1917.82,Food & Beverage,Dining out
+15/06/2024,Internet Deposit              15Jun16:41 From 0280074494440,,1400,1921.17,Deposits,Deposit
+15/06/2024,Eftpos Debit                  15Jun14:24 Uber* Trip\,20.08,,521.17,Transport & Travel,Taxi & Rental car
+15/06/2024,Eftpos Debit                  15Jun11:08 Uber* Trip\,11.56,,541.25,Transport & Travel,Taxi & Rental car
+15/06/2024,Eftpos Debit                  15Jun10:30 Uber* Trip\,12.62,,552.81,Transport & Travel,Taxi & Rental car
+15/06/2024,Atm Withdrawal                14Jun23:17 Atmx 139 Oconnell St   North Adelaid08Au,500,,565.43,Withdrawals & Transfers,ATM & EFTPOS
+14/06/2024,Visa Purchase                 11Jun Uber* Eats           Httpswww.,50.16,,1065.43,Food & Beverage,Dining out
+14/06/2024,Visa Purchase                 11Jun Uber* Eats           Httpswww.,28.89,,1115.59,Food & Beverage,Dining out
+14/06/2024,Eftpos Debit                  14Jun13:35 Uber Eats* Eats\,23.42,,1144.48,Food & Beverage,Dining out
+13/06/2024,Visa Purchase                 09Jun Amazon Marketplace A Sydney So,31.41,,1167.9,Retail & Personal,Retail (shopping)
+13/06/2024,Visa Purchase                 09Jun Amazon Marketplace A Sydney So,31.41,,1199.31,Retail & Personal,Retail (shopping)
+13/06/2024,Visa Purchase                 09Jun Amazon Marketplace A Sydney So,27.85,,1230.72,Retail & Personal,Retail (shopping)
+13/06/2024,Visa Purchase                 09Jun Amazon Marketplace A Sydney So,13.57,,1258.57,Retail & Personal,Retail (shopping)
+13/06/2024,Eftpos Debit                  13Jun20:04 Uber Eats* Eats\,67.07,,1272.14,Food & Beverage,Dining out
+13/06/2024,Internet Deposit              13Jun06:00 From 0280074494440,,802.35,1339.21,Deposits,Deposit
+12/06/2024,Visa Purchase                 09Jun Amazon Marketplace A Sydney So,163.55,,536.86,Retail & Personal,Retail (shopping)
+12/06/2024,Eftpos Debit                  12Jun22:07 Uber* Trip\,12.3,,700.41,Transport & Travel,Taxi & Rental car
+12/06/2024,Eftpos Debit                  12Jun20:52 Kmart 1223            Kilburn         Au,348.5,,712.71,Retail & Personal,Retail (shopping)
+12/06/2024,Eftpos Debit                  12Jun19:54 Uber* Trip\,29.85,,1061.21,Transport & Travel,Taxi & Rental car
+12/06/2024,Eftpos Debit                  11Jun22:41 Uber Eats* Eats\,30.74,,1091.06,Food & Beverage,Dining out
+12/06/2024,Eftpos Debit                  11Jun22:39 Uber Eats* Eats\,19.93,,1121.8,Food & Beverage,Dining out
+11/06/2024,Eftpos Debit                  11Jun09:43 Uber Eats* Eats\,68.07,,1141.73,Food & Beverage,Dining out
+10/06/2024,Visa Purchase                 06Jun Uber* Eats           Httpswww.,77.55,,1209.8,Food & Beverage,Dining out
+10/06/2024,Eftpos Debit                  09Jun22:04 Uber Eats* Eats\,86.71,,1287.35,Food & Beverage,Dining out
+10/06/2024,Eftpos Debit                  09Jun13:42 Uber Eats* Eats\,51.53,,1374.06,Food & Beverage,Dining out
+10/06/2024,Atm Operator Fee Wdl          09Jun00:51 Np-Otr Prospect        Prospect     05Au,3.1,,1425.59,Fees & Charges,Fees & Charges
+10/06/2024,Atm Withdrawal                09Jun00:51 Np-Otr Prospect        Prospect     05Au,500,,1428.69,Withdrawals & Transfers,ATM & EFTPOS
+10/06/2024,Eftpos Debit                  09Jun00:49 Otr Prospect       \Prospect          Au,96.44,,1928.69,Transport & Travel,Petrol
+10/06/2024,Eftpos Debit                  08Jun23:23 Uber* Trip\,20.18,,2025.13,Transport & Travel,Taxi & Rental car
+8/06/2024,Eftpos Debit                  08Jun04:15 Uber* Trip\,9.34,,2045.31,Transport & Travel,Taxi & Rental car
+7/06/2024,Visa Credit                   04Jun Amazon Marketplace A Sydney So,,160.99,2054.65,Deposits,Deposit
+7/06/2024,Visa Purchase                 05Jun Coles 0471           Prospect,206.23,,1893.66,Food & Beverage,Food & Groceries
+7/06/2024,Visa Purchase                 05Jun Coles 0471           Prospect,56.71,,2099.89,Food & Beverage,Food & Groceries
+7/06/2024,Eftpos Debit                  07Jun18:08 Rundle Mall Gong Cha  Adelaide     Sa Au,9.13,,2156.6,Food & Beverage,Beverages
+7/06/2024,Eftpos Debit                  07Jun18:03 Lushaustraliapos      Adelaide        Au,159,,2165.73,Retail & Personal,Retail (shopping)
+7/06/2024,Eftpos Debit                  07Jun18:15 Sq *Clinic H          Adelaide     Sa Au,7,,2324.73,Retail & Personal,Medical & Personal care
+7/06/2024,Eftpos Debit                  07Jun17:25 Uber* Trip\,3.7,,2331.73,Transport & Travel,Taxi & Rental car
+7/06/2024,Eftpos Debit                  07Jun09:45 Uber* Trip\,25.98,,2335.43,Transport & Travel,Taxi & Rental car
+6/06/2024,Eftpos Debit                  06Jun17:55 Uber Eats* Eats\,58.75,,2361.41,Food & Beverage,Dining out
+6/06/2024,Eftpos Debit                  06Jun06:07 Uber* Trip\,9.34,,2420.16,Transport & Travel,Taxi & Rental car
+6/06/2024,Internet Deposit              06Jun06:04 From 0280074494440,,802.35,2429.5,Deposits,Deposit
+6/06/2024,Eftpos Debit                  06Jun05:07 Uber* Trip\,9.34,,1627.15,Transport & Travel,Taxi & Rental car
+5/06/2024,Visa Purchase                 03Jun Northpark Medical Ce Prospect,30,,1636.49,Retail & Personal,Medical & Personal care
+5/06/2024,Eftpos Debit                  05Jun04:00 Uber Eats* Eats\,51.32,,1666.49,Food & Beverage,Dining out
+5/06/2024,Eftpos Credit                 05Jun03:53 Uber Eats* Eats\,,58.75,1717.81,Deposits,Deposit
+5/06/2024,Eftpos Debit                  05Jun03:39 Uber Eats* Eats\,58.75,,1659.06,Food & Beverage,Dining out
+4/06/2024,Visa Purchase                 29May Amazon Marketplace A Sydney So,160.99,,1717.81,Retail & Personal,Retail (shopping)
+4/06/2024,Visa Purchase                 01Jun Dan Murphys Online   Bella Vis,60.3,,1878.8,Food & Beverage,Beverages
+4/06/2024,Visa Purchase                 31May Amazon Au            Sydney So,12.6,,1939.1,Retail & Personal,Retail (shopping)
+4/06/2024,Eftpos Debit                  04Jun10:57 Uber Eats* Eats\,50.4,,1951.7,Food & Beverage,Dining out
+4/06/2024,Eftpos Debit                  04Jun10:53 Uber Eats* Eats\,57.45,,2002.1,Food & Beverage,Dining out
+3/06/2024,Visa Purchase                 30May Uber* Eats           Httpswww.,56.97,,2059.55,Food & Beverage,Dining out
+3/06/2024,Eftpos Debit                  03Jun16:15 Uber* Trip\,8.12,,2116.52,Transport & Travel,Taxi & Rental car
+3/06/2024,Eftpos Debit                  02Jun20:54 Uber* Trip\,14.26,,2124.64,Transport & Travel,Taxi & Rental car
+3/06/2024,Eftpos Debit                  02Jun20:19 Otr Prospect       \Prospect          Au,81.06,,2138.9,Transport & Travel,Petrol
+3/06/2024,Eftpos Debit                  02Jun11:06 Uber Eats* Eats\,46.35,,2219.96,Food & Beverage,Dining out
+3/06/2024,Eftpos Debit                  02Jun11:01 Uber Eats* Eats\,51.88,,2266.31,Food & Beverage,Dining out
+31/05/2024,Visa Purchase                 28May Amazon Marketplace A Sydney So,117.89,,2318.19,Retail & Personal,Retail (shopping)
+31/05/2024,Visa Purchase                 27May Amazon Marketplace A Sydney So,25.99,,2436.08,Retail & Personal,Retail (shopping)
+31/05/2024,Eftpos Debit                  31May07:30 Uber Eats* Eats\,2.05,,2462.07,Food & Beverage,Dining out
+30/05/2024,Visa Purchase                 26May Amazon Marketplace A Sydney So,46.99,,2464.12,Retail & Personal,Retail (shopping)
+30/05/2024,Visa Purchase                 27May Amazon Marketplace A Sydney So,23.69,,2511.11,Retail & Personal,Retail (shopping)
+30/05/2024,Eftpos Credit                 30May21:37 Uber Eats* Eats\,,8.56,2534.8,Deposits,Deposit
+30/05/2024,Eftpos Debit                  30May21:01 Uber* Trip\,22.26,,2526.24,Transport & Travel,Taxi & Rental car
+30/05/2024,Eftpos Debit                  30May20:31 Uber Eats* Eats\,40.93,,2548.5,Food & Beverage,Dining out
+30/05/2024,Eftpos Debit                  30May13:11 Sq *The Pear          Alberton     Sa Au,12,,2589.43,Food & Beverage,Food & Groceries
+30/05/2024,Eftpos Debit                  30May13:10 Sq *The Pear          Alberton     Sa Au,11.5,,2601.43,Food & Beverage,Food & Groceries
+30/05/2024,Internet Deposit              30May06:01 From 0280074494440,,802.35,2612.93,Deposits,Deposit
+30/05/2024,Eftpos Debit                  30May02:27 Uber* Trip\,18.77,,1810.58,Transport & Travel,Taxi & Rental car
+29/05/2024,Eftpos Debit                  29May05:29 Uber* Trip\,13.87,,1829.35,Transport & Travel,Taxi & Rental car
+28/05/2024,Visa Purchase                 24May Afterpay             Afterpay.,230.78,,1843.22,Retail & Personal,Retail (shopping)
+28/05/2024,Visa Purchase                 23May Amazon Marketplace A Sydney So,46.99,,2074,Retail & Personal,Retail (shopping)
+28/05/2024,Visa Purchase                 24May Uber   *Trip         Sydney,19.33,,2120.99,Transport & Travel,Taxi & Rental car
+28/05/2024,Visa Purchase                 26May Alh Venues/123 Oconn Nrth Adel,12.6,,2140.32,Transport & Travel,Hotels and Accommodation
+28/05/2024,Eftpos Debit                  28May18:43 Uber Eats* Eats\,32.31,,2152.92,Food & Beverage,Dining out
+28/05/2024,Eftpos Debit                  28May17:53 Rundle Mall Gong Cha  Adelaide     Sa Au,9.63,,2185.23,Food & Beverage,Beverages
+28/05/2024,Atm Withdrawal                28May17:45 Banksa                Adelaide Sa  5  Au,650,,2194.86,Withdrawals & Transfers,ATM & EFTPOS
+28/05/2024,Eftpos Debit                  28May17:48 Sq *Clinic H          Adelaide     Sa Au,7,,2844.86,Retail & Personal,Medical & Personal care
+27/05/2024,Visa Purchase                 23May Amazon Marketplace A Sydney So,65.98,,2851.86,Retail & Personal,Retail (shopping)
+27/05/2024,Visa Purchase                 23May Amazon Marketplace A Sydney So,52.99,,2917.84,Retail & Personal,Retail (shopping)
+27/05/2024,Visa Purchase                 22May Smp*Reepham Hotel    Prospect,34.98,,2970.83,Food & Beverage,Dining out
+27/05/2024,Eftpos Debit                  27May10:33 Uber Eats* Eats\,49.5,,3005.81,Food & Beverage,Dining out
+27/05/2024,Eftpos Debit                  27May02:20 Uber* Trip\,14.07,,3055.31,Transport & Travel,Taxi & Rental car
+27/05/2024,Eftpos Debit                  27May00:37 Uber* Trip\,17.19,,3069.38,Transport & Travel,Taxi & Rental car
+27/05/2024,Eftpos Debit                  26May15:14 Sq *Village Asian Grocnorth Adelaidsa Au,49.69,,3086.57,Food & Beverage,Food & Groceries
+27/05/2024,Atm Withdrawal                26May13:14 Banksa                Enfield Sa   5  Au,450,,3136.26,Withdrawals & Transfers,ATM & EFTPOS
+27/05/2024,Eftpos Debit                  26May11:50 Uber Eats* Eats\,59.99,,3586.26,Food & Beverage,Dining out
+25/05/2024,Visa Purchase                 23May Coles 0471           Prospect,43.3,,3646.25,Food & Beverage,Food & Groceries
+25/05/2024,Visa Purchase                 21May Paymate*Evies Laundr Adelaide,19,,3689.55,Home & Property,Services & Tradespeople
+25/05/2024,Visa Purchase                 21May Paymate*Evies Laundr Adelaide,16.5,,3708.55,Home & Property,Services & Tradespeople
+25/05/2024,Visa Purchase                 21May Paymate*Evies Laundr Adelaide,12,,3725.05,Home & Property,Services & Tradespeople
+25/05/2024,Visa Purchase                 23May Coles 0471           Prospect,11,,3737.05,Food & Beverage,Food & Groceries
+25/05/2024,Visa Purchase                 21May Paymate*Evies Laundr Adelaide,8,,3748.05,Home & Property,Services & Tradespeople
+25/05/2024,Eftpos Debit                  25May12:04 Uber Eats* Eats\,7.01,,3756.05,Food & Beverage,Dining out
+25/05/2024,Eftpos Debit                  25May09:04 Uber* Trip\,13.89,,3763.06,Transport & Travel,Taxi & Rental car
+25/05/2024,Eftpos Debit                  25May06:24 Uber* Trip\,16.84,,3776.95,Transport & Travel,Taxi & Rental car
+25/05/2024,Eftpos Debit                  24May22:11 Uber Eats* Eats\,75.16,,3793.79,Food & Beverage,Dining out
+24/05/2024,Visa Purchase                 21May Amazon Marketplace A Sydney So,25.41,,3868.95,Retail & Personal,Retail (shopping)
+24/05/2024,Visa Purchase                 20May Adelaide Metro Tap   Adelaide,2.4,,3894.36,Bills & Payments,Professional & Govt services
+24/05/2024,Eftpos Debit                  24May19:58 Sussex Hotel          Walkerville  Sa Au,9.06,,3896.76,Food & Beverage,Beverages
+24/05/2024,Osko Withdrawal               24May18:43 Ada,1400,,3905.82,Withdrawals & Transfers,Withdrawal
+24/05/2024,Eftpos Debit                  24May18:10 The Cumby             Adelaide     Sa Au,12.13,,5305.82,Food & Beverage,Beverages
+24/05/2024,Internet Deposit              24May17:34 From 0280074494440,,1400,5317.95,Deposits,Deposit
+24/05/2024,Eftpos Debit                  24May10:40 Uber Eats* Eats\,55.27,,3917.95,Food & Beverage,Dining out
+23/05/2024,Visa Purchase                 20May Amazon Marketplace A Sydney So,315.54,,3973.22,Retail & Personal,Retail (shopping)
+23/05/2024,Atm Withdrawal                23May21:05 Banksa                Enfield Sa   5  Au,500,,4288.76,Withdrawals & Transfers,ATM & EFTPOS
+23/05/2024,Eftpos Debit                  23May21:20 Uber* Trip\,8.76,,4788.76,Transport & Travel,Taxi & Rental car
+23/05/2024,Internet Deposit              23May06:03 From 0280074494440,,500,4797.52,Deposits,Deposit
+23/05/2024,Internet Deposit              23May06:03 From 0280074494440,,802.35,4297.52,Deposits,Deposit
+23/05/2024,Eftpos Debit                  22May23:12 Uber* Trip\,10.61,,3495.17,Transport & Travel,Taxi & Rental car
+22/05/2024,Visa Purchase                 20May Coles 0471           Prospect,197.58,,3505.78,Food & Beverage,Food & Groceries
+22/05/2024,Eftpos Debit                  22May17:32 Spotlight Gepps Cro\Gepps Cross       Au,285.8,,3703.36,Home & Property,Furnishings
+22/05/2024,Eftpos Debit                  22May17:09 Uber* Trip\,15.85,,3989.16,Transport & Travel,Taxi & Rental car
+22/05/2024,Eftpos Debit                  22May13:45 Smp*The Red Mill Bakehhectorville05   Au,45.95,,4005.01,Food & Beverage,Food & Groceries
+22/05/2024,Eftpos Debit                  22May10:06 Uber* Trip\,17.94,,4050.96,Transport & Travel,Taxi & Rental car
+22/05/2024,Eftpos Debit                  21May23:05 Uber* Trip\,3,,4068.9,Transport & Travel,Taxi & Rental car
+22/05/2024,Eftpos Credit                 21May23:02 Uber Eats* Eats\,,0.97,4071.9,Deposits,Deposit
+22/05/2024,Eftpos Debit                  21May22:23 Uber Eats* Eats\,30.9,,4070.93,Food & Beverage,Dining out
+21/05/2024,Visa Purchase                 18May Uber* Eats           Httpswww.,91.38,,4101.83,Food & Beverage,Dining out
+21/05/2024,Visa Purchase                 17May Uber   *Eats         Sydney,63.4,,4193.21,Food & Beverage,Dining out
+21/05/2024,Atm Withdrawal -Wbc           21May20:59 Westpac               Adelaide     5  Au,650,,4256.61,Withdrawals & Transfers,ATM & EFTPOS
+21/05/2024,Eftpos Debit                  21May21:25 Uber* Trip\,18.86,,4906.61,Transport & Travel,Taxi & Rental car
+20/05/2024,Visa Purchase                 17May Bws/123 Oconnell Str Nrth Adel,48,,4925.47,Food & Beverage,Beverages
+20/05/2024,Eftpos Debit                  20May18:01 Uber* Trip\,8.59,,4973.47,Transport & Travel,Taxi & Rental car
+20/05/2024,Eftpos Debit                  20May16:22 Sq *Clinic H          Adelaide     Sa Au,7,,4982.06,Retail & Personal,Medical & Personal care
+20/05/2024,Eftpos Debit                  20May14:29 Otr Tranmere       \Tranmere          Au,60.98,,4989.06,Transport & Travel,Petrol
+20/05/2024,Eftpos Debit                  20May13:43 Uber* Trip\,13.98,,5050.04,Transport & Travel,Taxi & Rental car
+20/05/2024,Eftpos Debit                  18May20:49 Uber* Trip\,20.32,,5064.02,Transport & Travel,Taxi & Rental car
+17/05/2024,Visa Purchase                 15May Coursra4L9025U9Vqv2G 650963988,74,,5084.34,Retail & Personal,Education & Training
+17/05/2024,Eftpos Debit                  17May18:07 The Cumby             Adelaide     Sa Au,25.28,,5158.34,Food & Beverage,Beverages
+17/05/2024,Atm Withdrawal                17May17:12 Banksa                Enfield Sa   5  Au,1600,,5183.62,Withdrawals & Transfers,ATM & EFTPOS
+17/05/2024,Internet Deposit              17May16:08 From 0280074494440,,1450,6783.62,Deposits,Deposit
+16/05/2024,Internet Deposit              16May06:03 From 0280074494440,,802.35,5333.62,Deposits,Deposit
+9/05/2024,Internet Deposit              09May06:03 From 0280074494440,,500,4531.27,Deposits,Deposit
+9/05/2024,Internet Deposit              09May06:03 From 0280074494440,,802.35,4031.27,Deposits,Deposit
+2/05/2024,Internet Deposit              02May06:02 From 0280074494440,,802.35,3228.92,Deposits,Deposit
+26/04/2024,Internet Deposit              25Apr06:03 From 0280074494440,,500,2426.57,Deposits,Deposit
+26/04/2024,Internet Deposit              25Apr06:03 From 0280074494440,,802.35,1926.57,Deposits,Deposit
+18/04/2024,Internet Deposit              18Apr06:01 From 0280074494440,,802.35,1124.22,Deposits,Deposit
+17/04/2024,Internet Withdrawal           17Apr05:48 To 105-900 146868640,500,,321.87,Withdrawals & Transfers,Funds transfer
+11/04/2024,Internet Deposit              11Apr06:03 From 0280074494440,,802.35,821.87,Deposits,Deposit
+11/04/2024,Osko Withdrawal               10Apr22:11 Ada,7800,,19.52,Withdrawals & Transfers,Withdrawal
+9/04/2024,Internet Deposit              09Apr16:44 From 0280074494440,,900,7819.52,Deposits,Deposit
+9/04/2024,Atm Withdrawal                09Apr15:58 Atmx 139 Oconnell St   North Adelaid08Au,400,,6919.52,Withdrawals & Transfers,ATM & EFTPOS
+9/04/2024,Atm Withdrawal                09Apr12:53 Rundle Place Os          Adelaide     Au,500,,7319.52,Withdrawals & Transfers,ATM & EFTPOS
+4/04/2024,Internet Deposit              04Apr06:01 From 0280074494440,,802.35,7819.52,Deposits,Deposit
+28/03/2024,Internet Deposit              28Mar06:07 From 0280074494440,,802.35,7017.17,Deposits,Deposit
+25/03/2024,Internet Deposit              24Mar09:46 From 0280074494440,,802.35,6214.82,Deposits,Deposit
+18/03/2024,Internet Deposit              18Mar15:24 From 0280074494440,,5412.47,5412.47,Deposits,Deposit
